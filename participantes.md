@@ -1,3 +1,3 @@
 # Lista de Participantes
 Aldahir Herrera
-Dafne Dominfo
+Dafne Domingo
